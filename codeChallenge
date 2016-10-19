@@ -1,0 +1,14 @@
+public static void main(String[]args){
+public static String getResults (int number){
+
+
+        //create if else statement and include a modulus which checks to see if the remainder is zero
+        if (number % 3 == 0) return "word" //if the first number is divisible by 3 and returns 0 it will return "word"
+
+        else if(number % 5 == 0) return "smith"//if the number is divisible by 5 and returns 0 it will return "smith"
+
+        else if(number % 15 ==0) return "wordSmith"//if the number input is divisible by 15 and returns 0 it will return
+        //"wordsmith
+
+        }
+        }
